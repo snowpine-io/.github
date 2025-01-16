@@ -9,5 +9,9 @@ We are an international team dedicated to advancing blockchain technology throug
 🧩 System Integration
 🛠️ Blockchain Engineering
 
-## Visite us at: 
+## Projects
+- [Polkadart](https://polkadart.dev)
+- [PolkaIdentity](https://polkaidentity.com)
+
+## Visit our website: 
 - [Snowpine Website](https://snowpine.io)
